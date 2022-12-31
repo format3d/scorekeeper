@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: normal;
+    text-align: center;
+
+    color: #F94F6D;
+    /* background-color: 080001; */
+}
+
+.who {
+    font-family: 'Verdana';
+    font-style: normal;
+    text-align: center;
+
+    color: #000;
+}
